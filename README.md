@@ -2,7 +2,8 @@
 
 FT232RL-based UART to USB Type-C adapter with support of 5V/3V3/2V5/1V8
 
-
+[![board front mini](https://raw.githubusercontent.com/streamx3/uartc/master/images/UARTC-revA01-front-mini.png)](https://raw.githubusercontent.com/streamx3/uartc/master/images/UARTC-revA01-front.png)
+[![board back mini](https://raw.githubusercontent.com/streamx3/uartc/master/images/UARTC-revA01-back-mini.png)](https://raw.githubusercontent.com/streamx3/uartc/master/images/UARTC-revA01-back.png)
 
 This is an advanced tool for rare usecases. It might come in handy if your scope includes:
 
@@ -12,11 +13,13 @@ This is an advanced tool for rare usecases. It might come in handy if your scope
 
 - Targets with altering voltage, like battery-powered systems that discharge
 
-### INSTRUCTION
+
+## INSTRUCTION
 
 Either use **ONE** voltage on switch or use none and connect VIO to board's voltage source. Doing otherwise will most like damage a board.
 
-### Thing you can do with this board
+
+## Thing you can do with this board
 
 - Solder 2.54mm header or XH-2.54-6P-SMD compatible connector like this: [CAX 2.54-6P-WT @ LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_CAX-2-54-6P-WT_C722706.html)
 
@@ -32,7 +35,8 @@ Either use **ONE** voltage on switch or use none and connect VIO to board's volt
 
 - Program raw ESP32 modules without wiring extra transistors and resistors
 
-Q&A:
+
+## Q&A:
 
 - Why should I use this board if there's a $1.5 FT232 knock-off on Ali?
   
