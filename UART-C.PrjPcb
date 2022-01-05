@@ -327,7 +327,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=Project Outputs for UART-C\OUTPUT\CAMtastic1.Cam
+DocumentPath=Project Outputs for UART-C\OUTPUT\SA01-UARTC-REV-A01.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
